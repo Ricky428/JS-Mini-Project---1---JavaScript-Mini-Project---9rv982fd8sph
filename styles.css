@@ -4,7 +4,8 @@ display: flex;
 flex-direction: column;
 align-items: center;
 border : 3px solid aqua;
-width: 100px;
+width: 130px;
+height: 100%;
 background-color: black;
 }
 .row {
