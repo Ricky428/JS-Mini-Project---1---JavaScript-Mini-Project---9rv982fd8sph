@@ -1,13 +1,4 @@
 
-main {
-  border: 3px solid aqua;
-  border-radius: 7px;
-  background-color: black;
-  width: 250px;
-  position: absolute;
-  left: 40%;
-  top: 10%;
-}
 .container {
 display: flex;
 flex-direction: column;
