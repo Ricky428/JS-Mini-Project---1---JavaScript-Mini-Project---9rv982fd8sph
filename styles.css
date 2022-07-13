@@ -1,4 +1,13 @@
 
+main {
+  border: 3px solid aqua;
+  border-radius: 7px;
+  background-color: black;
+  width: 250px;
+  position: absolute;
+  left: 40%;
+  top: 10%;
+}
 .container {
 display: flex;
 flex-direction: column;
@@ -12,6 +21,7 @@ align-items: center;
     padding: 11px 10px;
     border-radius: 10px;
     font-size: medium;
+    font-weight:bold; 
     margin-left: 5px;
 }
 .button {
@@ -31,8 +41,8 @@ align-items: center;
     
 }
 .upper {
-    background-color: rgba(128, 128, 128, 0.471);
-    color: black;
+    background-color: grey;
+    color: white;
     
 }
 .dot {
@@ -52,4 +62,3 @@ align-items: center;
     border-radius: 20px;
     text-align: left;
 }
-
